@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jitendra Sharma
 - 👀 I’m interested in Mobile Application development
-- 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on android applications.
 - 📫 How to reach me jitendrasharma407@gmail.com
 
